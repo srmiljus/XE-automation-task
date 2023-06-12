@@ -19,6 +19,7 @@ Test Type: API testing - POST method
 Software Test Method: Automated Testing (using Cypress, Postman)
 
 Screenshots:
+
 ![Cypress UI results](https://github.com/srmiljus/XE-automation-task/assets/81557246/afa67e41-0ad5-4c7c-baf0-0ca8c4c9c855)
 ![Cypress api tests](https://github.com/srmiljus/XE-automation-task/assets/81557246/9d1f7863-3f5f-427b-8acf-39109bad1430)
 ![Cypress error in #2 test](https://github.com/srmiljus/XE-automation-task/assets/81557246/2e51f879-a7f0-4c94-9754-1b0941ebc6c0)
