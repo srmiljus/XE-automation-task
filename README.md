@@ -18,6 +18,10 @@ Test Type: API testing - POST method
 
 Software Test Method: Automated Testing (using Cypress, Postman)
 
+Postman colection:
+
+[Xe.com.postman_collection.zip](https://github.com/srmiljus/XE-automation-task/files/11718766/Xe.com.postman_collection.zip)
+
 Screenshots:
 
 ![Cypress UI results](https://github.com/srmiljus/XE-automation-task/assets/81557246/afa67e41-0ad5-4c7c-baf0-0ca8c4c9c855)
